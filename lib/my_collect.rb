@@ -1,7 +1,7 @@
 
 array = ["beer", "corn", "mexico"]
 
-def my_collect(array)
+def my_collection(array)
   i = 0
   new_collection = []
   while i < array.length 
