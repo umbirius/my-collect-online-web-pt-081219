@@ -1,3 +1,6 @@
+
+array = ["beer", "corn", "mexico"]
+
 def my_collection(array)
   i = 0
   new_collection = []
