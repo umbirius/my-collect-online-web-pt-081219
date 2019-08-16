@@ -5,3 +5,4 @@ def my_collection(array)
     new_collection << yield(array[i]) 
   end 
 end 
+
