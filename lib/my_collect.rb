@@ -7,7 +7,7 @@ def my_collection(array)
   end 
 end 
 
-my_collection("home", "corn", "beer") do |mod|
+my_collection(array) do |mod|
   mod.upcase
 end 
   
